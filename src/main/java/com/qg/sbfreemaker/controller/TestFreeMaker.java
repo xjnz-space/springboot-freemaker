@@ -18,5 +18,4 @@ public class TestFreeMaker {
         mav.addObject("test","testFreeMaker");
         return mav;
     }
-    //测试修改文件提交到git
 }
