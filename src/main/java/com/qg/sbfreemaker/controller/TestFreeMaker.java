@@ -17,5 +17,6 @@ public class TestFreeMaker {
         mav.setViewName("test");
         mav.addObject("test","testFreeMaker");
         return mav;
+        //测试
     }
 }
